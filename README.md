@@ -1,1 +1,2 @@
 # MA326_Project
+For our project, we created a model designed to predict the final four teams that will compete in the tournament. To accomplish this, we utilized Singular Value Decomposition (SVD) to derive the most important features from a given data set that can be used to predict the final four. Then, we implemented a multiple linear regression model that will ultimately be used to predict the teams participating in the final four.
